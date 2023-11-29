@@ -20,9 +20,9 @@
     <td> <div align=center> <b>최지은</b> </div> </td>
   </tr>
   <tr>
-    <td> <img alt="Github" src ="" width="200" height="300"/> </td>
-    <td> <img alt="Github" src ="" width="200" height="300"/> </td>
-    <td> <img alt="Github" src ="" width="200" height="300"/> </td>
+    <td> <img alt="Github" src ="https://github.com/Daw-ny/2023_Upstage_01st_Proj/assets/76687996/97b57b76-4c34-4a87-bfe4-83b8aef9da7b" width="200" height="300"/> </td>
+    <td> <img alt="Github" src ="https://github.com/Daw-ny/2023_Upstage_01st_Proj/assets/76687996/0e99bd84-9c28-427a-90f7-c7f08e5247ba" width="200" height="300"/> </td>
+    <td> <img alt="Github" src ="https://github.com/Daw-ny/2023_Upstage_01st_Proj/assets/76687996/f0e2eac7-abb5-4f76-ad10-2d0a24a4fbff" width="200" height="300"/> </td>
   </tr>
   <tr>
     <td> <div align=center> <a href="https://github.com/Daw-ny"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
